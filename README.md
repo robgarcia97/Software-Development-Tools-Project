@@ -60,7 +60,7 @@ Run the Streamlit app:
 streamlit run app.py
 
 Open the application in your web browser:
-The Streamlit application will be available at http://localhost:8501.
+The Streamlit application will be available at (https://software-development-tools-project-ejty.onrender.com/).
 
 Project Details:
 Exploratory Data Analysis (EDA)
